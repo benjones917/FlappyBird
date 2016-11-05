@@ -38,10 +38,6 @@ public class FlappyDemo extends ApplicationAdapter {
 		gsm.render(batch);
 	}
 	
-	public void playHitSound() {
-		
-	}
-	
 	@Override
 	public void dispose () {
 		batch.dispose();
